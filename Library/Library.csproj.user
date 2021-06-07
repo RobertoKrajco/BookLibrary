@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="views\AddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="views\EditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="views\LibraryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="views\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
